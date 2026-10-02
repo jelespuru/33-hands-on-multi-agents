@@ -1,0 +1,7 @@
+{
+    "OPENAI_API_KEY": "gl-U2FsdGVkX1/yfnQZaCXjiQG1Mcn20lwIrz+szZ7zbPiW5kG2GUaYqwP5WFzMlNAJ",
+    "OPENAI_API_BASE": "https://aibe.mygreatlearning.com/openai/v1",
+    "LANGCHAIN_TRACING_V2": "true",
+    "LANGCHAIN_API_KEY": "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",
+    "LANGCHAIN_PROJECT": "AI_Helpdesk_Copilot"
+}
